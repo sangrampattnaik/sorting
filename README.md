@@ -6,6 +6,6 @@ Here you can find different types of sorting technioques which is solved by pyth
   
 ## Authors
 
- - [Sanngram Pattnaik](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Sanngram Pattnaik](https://github.com/sangrampattnaik)
 
   
